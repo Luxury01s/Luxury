@@ -21,13 +21,13 @@ _G.Setting = {
     },
     CustomSky = {
         Enabled = true,
-        SkyId = "luxury04s://4683664570"
+        SkyId = "rbxassetid://15066237310"
     },
     CustomUI = {
         Enabled = true,
         Candy = 'Inf',
         Gold = 'Inf',
-        Profile = 'luxury04s://4683664570'
+        Profile = 'rbxassetid://15043729657'
     }
 }
 ```
